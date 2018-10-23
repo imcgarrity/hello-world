@@ -1,6 +1,6 @@
 # Hello World
 
-##A Smaller Font
+## A Smaller Font
 
 [link to another page](https://librarycarpentry.org/)
 
